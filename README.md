@@ -1,5 +1,5 @@
 # os-shell
-Creating a shell for a Linux environment using C
+Creating a shell for a Linux environment using C. This project was to gain knowledge of how the command line works in Linux and also to learn more about child processes and how the execv command works. 
 
 ## Compilation
 Compile the file using gcc 
